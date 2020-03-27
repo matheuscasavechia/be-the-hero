@@ -29,16 +29,16 @@ export default function Profile(){
                     Authorization: ongId,
                 }
             });
-            setIncidents(incidents.filter(incident => incident.id !== id))
+            setIncidents(incidents.filter(incident => incident.id !== id));
         }catch(err){
-            alert('Erro ao deletar caso, tente novamente')
+            alert('Erro ao deletar caso, tente novamente');
         }
     };
 
     function handleLogout(){
         localStorage.clear();
 
-        history.push('/')
+        history.push('/');
     };
 
     return (
