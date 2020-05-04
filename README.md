@@ -24,7 +24,6 @@ Foram utilizadas as seguintes tecnologias para desenvolver o projeto:
   - [SQLite 3](https://www.sqlite.org/index.html) (Banco de Dados)
   - [Knex](http://knexjs.org/) (Query Builder)
   - [Celebrate](https://github.com/arb/celebrate) (Biblioteca de validação para o Express)
-  - [Jest](https://jestjs.io/) (Testes Automatizados)
 - Frontend Web:
   - [ReactJS](https://pt-br.reactjs.org/)
   - [Axios](https://github.com/axios/axios) (Chamadas HTTP)
