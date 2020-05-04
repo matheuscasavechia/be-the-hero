@@ -39,7 +39,3 @@ Foram utilizadas as seguintes tecnologias para desenvolver o projeto:
   git clone https://github.com/matheuscasavechia/be-the-hero.git
 ```
 - As instruções para executar o backend, o frontend web e o mobile estão em suas respectivas pastas aqui nesse repositório
-
-### :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
